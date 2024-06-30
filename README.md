@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/7tsves7dbn0we47w?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ra-hw-2-event-state-layout)
 
-### [Ссылка на Github Pages](https://a-naraikin.github.io/n-ra-hw.-2_event-state_layouts/)
+### [Ссылка на Github Pages]()
 
 ## Домашняя работа «Расположение товаров»
 
